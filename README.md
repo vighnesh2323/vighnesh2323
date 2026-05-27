@@ -1,58 +1,80 @@
 # Vighnesh S Shet
 
-Electronics and Communication Engineering undergraduate  
-University Visvesvaraya College of Engineering (UVCE), Bengaluru
+### B.Tech in ECE at UVCE, Bengaluru
 
-ECE student with practical exposure to embedded systems and IoT, with a strong interest in firmware development and hardware integration.
+PCB Design • Embedded Systems • IoT • Embedded C
+
+---
+
+## About Me
+
+Electronics and Communication Engineering student at UVCE with interests in Embedded Systems, PCB Design, and IoT development. Experienced in electronics testing, troubleshooting, and microcontroller-based project development. Passionate about designing reliable hardware and firmware solutions for real-world applications.
 
 ---
 
 ## Technical Skills
 
-**Embedded & IoT**
+### Embedded Systems & IoT
 - Embedded C
-- ESP32 and Arduino-based development
-- IoT system implementation
+- ESP32 Development
+- Arduino Development
+- IoT System Development
+- Sensor Integration
 
-**Hardware & Electronics**
-- PCB Design (schematic capture and basic routing)
-- Sensors, actuators, and peripheral interfacing
-- Digital Logic and Analog Electronic Circuits (DLIC, AEC)
+### Hardware & Electronics
+- PCB Design (Schematic Capture & Routing)
+- Digital Electronics
+- Analog Electronics
+- Sensor, Actuator & Peripheral Interfacing
+- Circuit Design & Debugging
 
-**Tools**
+### Tools
+- Git & GitHub
 - MATLAB
-- Git and GitHub
+- LTspice
 
 ---
 
 ## Experience
 
-**CTDI India**  
-*Intern – Testing and Troubleshooting*  
-Jan 2024 – May 2024  
-- Performed electronic testing, fault identification, and troubleshooting.
-- Gained hands-on exposure to industry testing and validation processes.
-- Recognized as **Best Performer (twice)** during the internship period.
+### CTDI India
+**Intern – Testing & Troubleshooting**  
+*Jan 2024 – May 2024*
 
-**InAmigos Foundation**  
-*Graphic Design Intern*  
-- Designed visual and digital content and supported communication materials.
+- Performed electronic testing, fault diagnosis, and troubleshooting.
+- Worked with validation and quality assurance procedures.
+- Recognized as Best Performer on two occasions during the internship.
 
----
+### InAmigos Foundation
+**Graphic Design Intern**
 
-## Projects
-
-**Smart Irrigation System**  
-IoT-based automation project designed to optimize water usage using sensor data and microcontroller-based control logic.
+- Designed digital and visual content for communication and outreach activities.
 
 ---
 
-## Career Objective
+## Featured Projects
 
-Seeking an **Embedded Systems Internship** focused on firmware development, hardware interfacing, and PCB-based system design.
+### Smart Irrigation System
+Developed an IoT-based irrigation system that automates water delivery using sensor feedback and microcontroller-based control logic to improve water efficiency.
+
+### PMSM Rotor Temperature Monitoring System *(In Progress)*
+Developing a wireless power transfer based battery-less rotor temperature monitoring system for permanent magnet synchronous motors.
+
+### Embedded & IoT Experiments
+Collection of embedded programming, ESP32, Arduino, and sensor interfacing projects.
 
 ---
 
-## Contact
+## Currently Learning
 
-GitHub: https://github.com/vighnesh2323
+- Advanced PCB Routing
+- Embedded Firmware Development
+- IoT System Architecture
+- Hardware Prototyping
+
+---
+
+## Connect With Me
+
+- GitHub: github.com/vighnesh2323
+- LinkedIn: (Add your LinkedIn profile)
